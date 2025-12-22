@@ -257,7 +257,7 @@ export function ProjectsPage() {
       title: 'Laundry Back Office Web App',
       description:
         'Laundry Back Office Web App. Built with React Typescript, Ant Design UI, Tanstack Router, Tanstack Query',
-      image: 'https://i.ibb.co/S43DFV5D/Screenshot-2025-06-28-at-12-16-29.png',
+      image: 'https://i.ibb.co/27QYpqkY/Screenshot-2025-12-22-at-13-16-21.png',
       technologies: [
         'React Typescript',
         'Ant Design UI',
