@@ -294,6 +294,29 @@ export function ProjectsPage() {
       liveLink: 'https://miss-clean-spa.firebaseapp.com/',
       githubLink: '#',
     },
+    {
+      title: 'Lunch stag Web App',
+      description:
+        'Lunch stag ເປັນແອັບ Random ອາຫານ (Food and drink). Built with Next.js, next-safe-action, Tailwind CSS, Radix-UI',
+      image: 'https://i.ibb.co/4Rc6mJmk/image.png',
+      technologies: ['Next.js', 'next-safe-action', 'Tailwind CSS', 'Radix-UI'],
+      liveLink: 'https://lunch-stag.up.railway.app/',
+      githubLink: 'https://github.com/SouliyaPPS-Dev/lunch-stag',
+    },
+    {
+      title: 'PIYA BULLION',
+      description:
+        'PIYA BULLION | Gold Bullion Trading Platform. Built with React Typescript, Tanstack Router, Tanstack Query, Material UI',
+      image: 'https://i.ibb.co/svhHWwKj/Screenshot-2025-12-22-at-13-10-07.png',
+      technologies: [
+        'React Typescript',
+        'Tanstack Router',
+        'Tanstack Query',
+        'Material UI',
+      ],
+      liveLink: '#',
+      githubLink: '#',
+    },
   ];
 
   const containerRef = useRef<HTMLDivElement>(null);

@@ -78,6 +78,11 @@ export function SkillsPage() {
       url: 'https://nextjs.org/',
     },
     {
+      name: 'next-safe-action',
+      icon: <Boxes className='h-6 w-6' />,
+      url: 'https://next-safe-action.dev/',
+    },
+    {
       name: 'TRPC',
       icon: <Boxes className='h-6 w-6' />,
       url: 'https://trpc.io/',
