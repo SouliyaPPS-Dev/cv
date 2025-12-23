@@ -32,7 +32,7 @@ export function ProjectsPage() {
         'Mobile App',
         'PWA',
       ],
-      liveLink: 'https://buddha-nature.firebaseapp.com/',
+      liveLink: 'https://buddhaword.net',
       githubLink: 'https://github.com/SouliyaPPS-7575/buddha-nature-web',
     },
     {
@@ -241,7 +241,7 @@ export function ProjectsPage() {
         'E-Commerce Shops Order Products and Add Cart. Built with Tantack Start, Material UI and Pocketbase.',
       image: 'https://i.ibb.co/GfZ15sX7/Screenshot-2025-06-28-at-10-43-37.png',
       technologies: ['React Typescript', 'Tanstack Start', 'MUI', 'Pocketbase'],
-      liveLink: 'http://soysouvanhsbrown.netlify.app/',
+      liveLink: 'https://soysb.com',
       githubLink: '#',
     },
     {
@@ -250,7 +250,7 @@ export function ProjectsPage() {
         'Admin E-Commerce Shops Order Products and Add Cart. Built with React Admin UI, Material UI and Pocketbase.',
       image: 'https://i.ibb.co/93qCSh9x/Screenshot-2025-06-28-at-12-07-24.png',
       technologies: ['React Typescript', 'React Admin UI', 'MUI', 'Pocketbase'],
-      liveLink: 'https://bo-soysb.netlify.app/',
+      liveLink: '#',
       githubLink: '#',
     },
     {
@@ -264,7 +264,7 @@ export function ProjectsPage() {
         'Tanstack Router',
         'Tanstack Query',
       ],
-      liveLink: 'https://laundry-bo-7bf8fc.gitlab.io/',
+      liveLink: '#',
       githubLink: '#',
     },
     {
@@ -291,7 +291,7 @@ export function ProjectsPage() {
         'Laundry Miss Clean and Spa Admin Web. Built with React Typescript, Ant Design UI, Tanstack Router, Tanstack Query',
       image: 'https://i.ibb.co/yFCJyB7h/Screenshot-2025-08-09-at-20-15-56.jpg',
       technologies: ['React Typescript', 'React Admin UI', 'MUI', 'Pocketbase'],
-      liveLink: 'https://miss-clean-spa.firebaseapp.com/',
+      liveLink: '#',
       githubLink: '#',
     },
     {
@@ -301,7 +301,7 @@ export function ProjectsPage() {
       image: 'https://i.ibb.co/4Rc6mJmk/image.png',
       technologies: ['Next.js', 'next-safe-action', 'Tailwind CSS', 'Radix-UI'],
       liveLink: 'https://lunch-stag.up.railway.app/',
-      githubLink: 'https://github.com/SouliyaPPS-Dev/lunch-stag',
+      githubLink: '#',
     },
     {
       title: 'PIYA BULLION',
